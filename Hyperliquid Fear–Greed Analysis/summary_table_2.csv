@@ -1,0 +1,4 @@
+sentiment_category,Profitable Days,Total Days,Win Rate
+Fear,477,790,60.38%
+Greed,755,1174,64.31%
+Neutral,234,376,62.23%

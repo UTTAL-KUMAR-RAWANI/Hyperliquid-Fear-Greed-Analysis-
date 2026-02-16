@@ -1,0 +1,4 @@
+sentiment_category,Total PnL ($),Avg Daily PnL ($),Volatility ($),Total Trades,Avg Active Traders,Avg Trade Size ($)
+Fear,4096265.69,32.23,405.17,83237,7.52,6199.96
+Greed,4865300.58,45.85,259.27,90295,3.82,5872.03
+Neutral,1292920.68,63.82,292.95,37686,5.61,7157.53

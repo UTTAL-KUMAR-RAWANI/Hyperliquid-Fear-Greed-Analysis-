@@ -1,0 +1,10 @@
+frequency_segment,sentiment_category,Avg Daily PnL ($),Win Rate,Avg Trades/Day
+Infrequent,Fear,2924.8697,0.4265,37.9338
+Infrequent,Greed,6900.2929,0.4235,24.0941
+Infrequent,Neutral,3416.3266,0.3095,13.6667
+Moderate,Fear,11098.8587,0.6162,95.5354
+Moderate,Greed,1174.5472,0.4462,55.441
+Moderate,Neutral,2823.4625,0.5488,74.7195
+Frequent,Fear,3291.468,0.6513,129.7412
+Frequent,Greed,4280.858,0.7367,93.1867
+Frequent,Neutral,3642.5041,0.6984,122.9563
