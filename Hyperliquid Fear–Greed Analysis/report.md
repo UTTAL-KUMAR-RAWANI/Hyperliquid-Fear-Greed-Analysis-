@@ -110,4 +110,5 @@ This analysis demonstrates that market sentiment significantly impacts trader be
 ---
 
 *Report prepared for Data Science Internship Assignment*
-*Date: 2024*
+*Date: 2026*
+
